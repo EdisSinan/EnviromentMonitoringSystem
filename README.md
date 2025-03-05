@@ -15,6 +15,7 @@ This project is a smart environment monitoring and control system that uses a Ra
 ## Hardware Requirements
 
 - Raspberry Pi (with GPIO pins)
+- ESP8266
 - TCS34725 Color Sensor
 - MLX90614 Infrared Temperature Sensor
 - Relay Module
