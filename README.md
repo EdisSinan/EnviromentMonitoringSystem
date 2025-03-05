@@ -1,4 +1,4 @@
-# SmartKitchen# Smart Environment Monitoring and Control System
+# Smart Environment Monitoring and Control System
 
 This project is a smart environment monitoring and control system that uses a Raspberry Pi to interact with various sensors and actuators. The system collects data from a color sensor (TCS34725) and an infrared temperature sensor (MLX90614), controls a relay and a servo motor based on the sensor data, and communicates with an MQTT broker to receive additional control commands. The collected data is logged to a CSV file and sent to a Flask server for further processing or visualization.
 
